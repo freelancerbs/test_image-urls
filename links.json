@@ -1,30 +1,21 @@
 {
-"image_url" : "https://picsum.photos/200/300",
-"image_title" : "Title 1",
-"imgae_description" : "description 1"
-},
-{
-"image_url" : "https://picsum.photos/200/300",
-"image_title" : "Title 2",
-"imgae_description" : "description 2"
-},
-{
-"image_url" : "https://picsum.photos/200/300",
-"image_title" : "Title 3",
-"imgae_description" : "description 3"
-},
-{
-"image_url" : "https://picsum.photos/200/300",
-"image_title" : "Title 4",
-"imgae_description" : "description 4"
-},
-{
-"image_url" : "https://picsum.photos/200/300",
-"image_title" : "Title 5",
-"imgae_description" : "description 5"
-},
-{
-"image_url" : "https://picsum.photos/200/300",
-"image_title" : "Title 6",
-"imgae_description" : "description 6"
+  "ads":[
+    {
+      "title":"Picture of cat",
+      "description":"Cartoon",
+      "image-url":"https://cdn.pixabay.com/photo/2024/01/13/00/46/raccoon-8504925_1280.png"
+    },
+    {
+      "title":"Plants",
+      "description":"3 plants drawing",
+      "image-url":"https://cdn.pixabay.com/photo/2024/01/21/18/46/succulent-8523664_1280.jpg"
+    },
+    {
+      "title":"Random",
+      "description":"Art",
+      "image-url":"https://cdn.pixabay.com/photo/2023/11/20/16/37/snowflakes-8401477_1280.png"
+    }
+    
+  ]
+
 }
