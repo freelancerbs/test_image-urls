@@ -1,4 +1,4 @@
-{
+[{
 "image_url" : "https://www.kasandbox.org/programming-images/avatars/spunky-sam.png",
 "image_title" : "Title 1",
 "imgae_description" : "description 1"
@@ -27,4 +27,4 @@
 "image_url" : "https://www.kasandbox.org/programming-images/avatars/primosaur-tree.png",
 "image_title" : "Title 6",
 "imgae_description" : "description 6"
-}
+}]
