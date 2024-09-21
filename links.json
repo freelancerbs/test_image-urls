@@ -1,15 +1,8 @@
 {
     "ads":[
-      {
-        "title": "Hamropatro Health",
-        "description": "Call our specialist from anywhere!",
-        "image-url": "https://www.hamropatro.com/images/rotating-ads//health1.gif",
-        "link": "https://hamropatro.com",
-        "tel": "9809005000"
-       },
        {
-        "title": "Hamropatro Health",
-        "description": "Call our specialist from anywhere!",
+        "title": "Post ad",
+        "description": "Post your ad here",
         "image-url": "https://leagueoffire.com/wp-content/uploads/2022/03/PLACE-YOUR-ADVERT-HERE-2.gif",
         "link": "https://app-baideshikrojgar.blogspot.com",
         "tel": "9809005000"
