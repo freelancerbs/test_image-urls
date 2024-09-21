@@ -1,21 +1,18 @@
 {
-  "ads":[
-    {
-      "title":"Picture of cat",
-      "description":"Cartoon",
-      "image-url":"https://cdn.pixabay.com/photo/2015/10/16/01/32/advertise-990394_1280.jpg"
-    },
-    {
-      "title":"Plants",
-      "description":"3 plants drawing",
-      "image-url":"https://cdn.pixabay.com/photo/2015/10/16/01/32/advertise-990394_1280.jpg"
-    },
-    {
-      "title":"Random",
-      "description":"Art",
-      "image-url":"https://cdn.pixabay.com/photo/2015/10/16/01/32/advertise-990394_1280.jpg"
-    }
-    
-  ]
-
-}
+    "ads":[
+      {
+        "title": "Hamropatro Health",
+        "description": "Call our specialist from anywhere!",
+        "image-url": "https://www.hamropatro.com/images/rotating-ads//health1.gif",
+        "link": "https://hamropatro.com",
+        "tel": "9809005000"
+       },
+       {
+        "title": "Hamropatro Health",
+        "description": "Call our specialist from anywhere!",
+        "image-url": "https://leagueoffire.com/wp-content/uploads/2022/03/PLACE-YOUR-ADVERT-HERE-2.gif",
+        "link": "https://app-baideshikrojgar.blogspot.com",
+        "tel": "9809005000"
+       }
+    ]
+  }
